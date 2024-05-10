@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TorreFrancisco, a normal person with big proyects and contagious enthusiasm!
-- 👀 I’m interested in System.out.pritln("Programming");
+- 👀 I’m interested in System.out.println("Programming");
 - 🌱 I’m currently learning Flutter & Dart and soon CSS (Tailwind), but i already know other languages like Python and JavaScript
 - 💞️ I’m looking to collaborate on big programming industries!
 - 📫 How to reach me? LinkedIn and my email (franjuantorre@hotmail.com or franjuantorre35@gmail.com)
